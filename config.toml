@@ -13,6 +13,6 @@ users = [
   547730924
 ]
 
-[authentication]
+[auth]
 api_id = "YOUR API ID"
 api_hash = "YOUR API HASH"
