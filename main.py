@@ -10,7 +10,7 @@ config = tomli.loads(read_file('config.toml'))
 
 # TODO: replace with our grouip
 dest_chats = [
-   'OutputDlock'
+   'Bot - Aggregator'
 ]
 
 with TelegramClient('AlphaAggregator', config["auth"]["api_id"], config["auth"]["api_hash"]) as client:
