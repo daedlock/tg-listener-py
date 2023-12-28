@@ -1,0 +1,18 @@
+
+[config]
+
+# The exact group names to listen to. Make sure to copy this from your TG (don't write manually)
+groups = [
+"My Group", 
+"My Other Group",
+"My Third Group"
+]
+
+# IDs for users to filter messages by. You can get any user ID by sending a message to https://t.me/BetterUserInfoBot
+users = [
+  547730924
+]
+
+[authentication]
+api_id = "YOUR API ID"
+api_hash = "YOUR API HASH"
