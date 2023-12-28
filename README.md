@@ -7,7 +7,7 @@ This bot will listen to all messages you receive on telegram and aggregate it to
 
 # Installation & Running
 
-###Clone this repository
+### Clone this repository
 ```
 git clone https://github.com/daedlock/tg-listener-py
 ```
